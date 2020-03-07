@@ -1,0 +1,7 @@
+﻿  2D大作业.cpp
+c:\users\96942\desktop\2d大作业（项目文件）\2d大作业\2d大作业.cpp(88): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\96942\desktop\2d大作业（项目文件）\2d大作业\2d大作业.cpp(140): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\96942\desktop\2d大作业（项目文件）\2d大作业\2d大作业.cpp(149): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\96942\desktop\2d大作业（项目文件）\2d大作业\2d大作业.cpp(438): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\96942\desktop\2d大作业（项目文件）\2d大作业\2d大作业.cpp(91): warning C4715: “Maze::checkPointState”: 不是所有的控件路径都返回值
+  2D大作业.vcxproj -> C:\Users\96942\Desktop\2D大作业（项目文件）\Debug\2D大作业.exe

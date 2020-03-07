@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  2D大作业.cpp
+c:\users\96942\desktop\2d大作业（项目文件）\2d大作业\2d大作业.cpp(91): warning C4715: “Maze::checkPointState”: 不是所有的控件路径都返回值
+  2D大作业.vcxproj -> C:\Users\96942\Desktop\2D大作业（项目文件）\x64\Debug\2D大作业.exe
